@@ -41,7 +41,7 @@ $ sage ask "where does the calvin cycle take place"
 ## Install
 
 ```bash
-git clone https://github.com/<you>/sage.git
+git clone https://github.com/Perceus64/SAGE
 cd sage
 pip install -e .
 ```
